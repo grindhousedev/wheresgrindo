@@ -1,0 +1,9 @@
+[package]
+name = "wheresgrindo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+eyre = "0.6"
+twitch_eventsub = "0.1"
